@@ -46,7 +46,7 @@ div{
 <a href="https://graphql.org/">
     <img src="https://img.shields.io/badge/graphql-DF0D94?logo=graphql&style=for-the-badge&logoColor=white">
 </a>
-<a href="https://graphql.org/">
+<a href="https://firebase.google.com/">
     <img src="https://img.shields.io/badge/firebase-white?logo=firebase&style=for-the-badge">
 </a>
 <br>
