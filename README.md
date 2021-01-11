@@ -1,23 +1,9 @@
-
-<style>
-div{
-  text-align:center;
-}ul{
-  display:inline-block;
-  text-align:left;
-}
-</style>
-
 <h1 align="center">👋 Hi there</h1>
 <h2 align="center"> 👨‍💻 Whoami</h2>
 <p align="center">
-    I'm jlnrrg <br> and these are awesome projects, <br> I am hyped for rn:
-    <div class="myDivElement">
-        <ul>
-            <li><a href="https://rydmike.com/colorscheme">rydmike - ColorScheme</a></li>
-            <li><a href="https://rydmike.com/flexfold">rydmike - Flexfold</a></li>
-        </ul>
-    </div>
+    I'm jlnrrg <br> and these are awesome projects, <br> I am hyped for rn:<br></br>
+    <a href="https://rydmike.com/colorscheme">rydmike - ColorScheme</a><br>
+    <a href="https://rydmike.com/flexfold">rydmike - Flexfold</a>
 
 </p>
 
