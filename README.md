@@ -119,12 +119,9 @@ div{
     <a href="https://www.microsoft.com/windows">
         <img src="https://img.shields.io/badge/Windows-white?logo=windows&style=for-the-badge&logoColor=lightgrey">
     </a>
-    <a href="https://www.microsoft.com/windows">
+    <a href="https://www.office.com/">
         <img src="https://img.shields.io/badge/MS_Office-D73D16?logo=microsoft-office&style=for-the-badge&logoColor=white">
     </a>
-<a href="">
-    <img src="">
-</a>
 </p>
 
 
