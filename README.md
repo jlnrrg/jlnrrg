@@ -30,7 +30,7 @@
     <img src="https://img.shields.io/badge/Dart-30B7F3?logo=dart&style=for-the-badge&logoColor=white">
 </a>
 <a href="https://graphql.org/">
-    <img src="https://img.shields.io/badge/graphql-DF0D94?logo=graphql&style=for-the-badge&logoColor=white">
+    <img src="https://img.shields.io/badge/graphql-dgraph-E6148B?logo=graphql&style=for-the-badge&logoColor=white&labelColor=DF0D94">
 </a>
 <a href="https://firebase.google.com/">
     <img src="https://img.shields.io/badge/firebase-white?logo=firebase&style=for-the-badge">
