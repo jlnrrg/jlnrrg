@@ -83,6 +83,9 @@
     <a href="https://about.gitlab.com/">
         <img src="https://img.shields.io/badge/gitlab-white?logo=gitlab&style=for-the-badge">
     </a>
+    <a href="https://www.atlassian.com/">
+        <img src="https://img.shields.io/badge/atlassian-0052C7?logo=atlassian&style=for-the-badge">
+    </a>
     <a href="https://www.gatsbyjs.com/">
         <img src="https://img.shields.io/badge/gatsby-653496?logo=gatsby&style=for-the-badge">
     </a>
