@@ -3,7 +3,7 @@
 <p align="center">
     I'm jlnrrg <br> and these are awesome projects, <br> I am hyped for rn:<br></br>
     <a href="https://rydmike.com/colorscheme">
-        <img src="https://img.shields.io/badge/ColorScheme-by_rydmike-025BA1?logo=flutter&style=for-the-badge&logoColor=white&labelColor=44D0FA">
+        <img src="https://img.shields.io/badge/FlexColorScheme-by_rydmike-025BA1?logo=flutter&style=for-the-badge&logoColor=white&labelColor=44D0FA">
     </a><br>
     <a href="https://rydmike.com/flexfold">
         <img src="https://img.shields.io/badge/Flexfold-by_rydmike-025BA1?logo=flutter&style=for-the-badge&logoColor=white&labelColor=44D0FA">
