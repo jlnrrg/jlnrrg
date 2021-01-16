@@ -2,10 +2,14 @@
 <h2 align="center"> 👨‍💻 Whoami</h2>
 <p align="center">
     I'm jlnrrg <br> and these are awesome projects, <br> I am hyped for rn:<br></br>
-    <a href="https://rydmike.com/colorscheme">rydmike - ColorScheme</a><br>
-    <a href="https://rydmike.com/flexfold">rydmike - Flexfold</a>
-
+    <a href="https://rydmike.com/colorscheme">
+        <img src="https://img.shields.io/badge/ColorScheme-by_rydmike-025BA1?logo=flutter&style=for-the-badge&logoColor=white&labelColor=44D0FA">
+    </a><br>
+    <a href="https://rydmike.com/flexfold">
+        <img src="https://img.shields.io/badge/Flexfold-by_rydmike-025BA1?logo=flutter&style=for-the-badge&logoColor=white&labelColor=44D0FA">
+    </a><br>
 </p>
+</br>
 
 <h2 align="center">📫 Where to find me</h2>
 
@@ -18,6 +22,7 @@
     </a>
 </p>
     
+</br>
 
 <h1 align="center">🔭 Tech Stack</h1>
 <h2 align="center">Currently working with</h2>
