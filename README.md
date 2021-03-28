@@ -35,7 +35,10 @@
     <img src="https://img.shields.io/badge/Dart-30B7F3?logo=dart&style=for-the-badge&logoColor=white">
 </a>
 <a href="https://graphql.org/">
-    <img src="https://img.shields.io/badge/graphql-dgraph-E6148B?logo=graphql&style=for-the-badge&logoColor=white&labelColor=DF0D94">
+    <img src="https://img.shields.io/badge/graphql-E6148B?logo=graphql&style=for-the-badge&logoColor=white">
+</a>
+<a href="https://dgraph.io/">
+    <img src="https://img.shields.io/badge/Dgraph-E50695?logo=dgraph&style=for-the-badge&logoColor=white">
 </a>
 <a href="https://firebase.google.com/">
     <img src="https://img.shields.io/badge/firebase-white?logo=firebase&style=for-the-badge">
@@ -124,6 +127,13 @@
     <a href="https://www.tensorflow.org/">
         <img src="https://img.shields.io/badge/Tensorflow-white?logo=tensorflow&style=for-the-badge">
     </a>
+<br>
+    <a href="https://developer.mozilla.org/docs/Web/JavaScript">
+        <img src="https://img.shields.io/badge/JavaScript-F7D71E?logo=JavaScript&style=for-the-badge&logoColor=black">
+    </a>
+    <a href="https://www.java.com/de/">
+        <img src="https://img.shields.io/badge/Java-F4832E?logo=Java&style=for-the-badge&logoColor=white">
+    </a>    
 <br>
     <a href="https://www.r-project.org/">
         <img src="https://img.shields.io/badge/R-256ABA?logo=R&style=for-the-badge&logoColor=white">
