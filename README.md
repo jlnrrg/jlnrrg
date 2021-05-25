@@ -74,6 +74,10 @@
 
 <h2 align="center">Worked with</h2>
 <p align="center">
+    <a href="https://developers.google.com/apps-script">
+        <img src="https://img.shields.io/badge/Apps_Script-34A853?logo=google-sheets&style=for-the-badge&logoColor=white">
+    </ a>
+<br>
     <a href="https://reactjs.org/">
         <img src="https://img.shields.io/badge/React-white?logo=react&style=for-the-badge&logoColor=63DAF9">
     </a>
