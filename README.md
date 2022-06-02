@@ -1,13 +1,14 @@
 <h1 align="center">👋 Hi there</h1>
 <h2 align="center"> 👨‍💻 Whoami</h2>
 <p align="center">
-    I'm jlnrrg <br> and these are awesome projects, <br> I am hyped for rn:<br></br>
+    I'm Julian <br> and here you can learn a little about my tech journey. 
+    <!-- these are awesome projects, <br> I am hyped for rn:<br></br>
     <a href="https://rydmike.com/colorscheme">
         <img src="https://img.shields.io/badge/FlexColorScheme-by_rydmike-025BA1?logo=flutter&style=for-the-badge&logoColor=white&labelColor=44D0FA">
     </a><br>
     <a href="https://rydmike.com/flexfold">
         <img src="https://img.shields.io/badge/Flexfold-by_rydmike-025BA1?logo=flutter&style=for-the-badge&logoColor=white&labelColor=44D0FA">
-    </a><br>
+    </a><br> -->
 </p>
 </br>
 
@@ -28,21 +29,12 @@
 <h2 align="center">Currently working with</h2>
 
 <p align="center">
-<a href="https://flutter.dev/">
-    <img src="https://img.shields.io/badge/flutter-44D0FA?logo=flutter&style=for-the-badge&logoColor=white">
-</a>
-<a href="https://dart.dev/">
-    <img src="https://img.shields.io/badge/Dart-30B7F3?logo=dart&style=for-the-badge&logoColor=white">
-</a>
-<a href="https://graphql.org/">
-    <img src="https://img.shields.io/badge/graphql-E6148B?logo=graphql&style=for-the-badge&logoColor=white">
-</a>
-<a href="https://dgraph.io/">
-    <img src="https://img.shields.io/badge/Dgraph-E50695?logo=dgraph&style=for-the-badge&logoColor=white">
-</a>
-<a href="https://firebase.google.com/">
-    <img src="https://img.shields.io/badge/firebase-white?logo=firebase&style=for-the-badge">
-</a>
+    <a href="https://flutter.dev/">
+        <img src="https://img.shields.io/badge/flutter-44D0FA?logo=flutter&style=for-the-badge&logoColor=white">
+    </a>
+    <a href="https://dart.dev/">
+        <img src="https://img.shields.io/badge/Dart-30B7F3?logo=dart&style=for-the-badge&logoColor=white">
+    </a>
 <br>
     <a href="https://www.figma.com/">
         <img src="https://img.shields.io/badge/Figma-white?logo=figma&style=for-the-badge">
@@ -74,9 +66,26 @@
 
 <h2 align="center">Worked with</h2>
 <p align="center">
+    <a href="https://kit.svelte.dev/">
+        <img src="https://img.shields.io/badge/sveltekit-FF3E00?logo=svelte&style=for-the-badge&logoColor=white">
+    </a>
+    <a href="https://tailwindcss.com/">
+        <img src="https://img.shields.io/badge/tailwind_CSS-06B6D4?logo=tailwind-css&style=for-the-badge&logoColor=white">
+    </a>
+<br>
+    <a href="https://graphql.org/">
+        <img src="https://img.shields.io/badge/graphql-E6148B?logo=graphql&style=for-the-badge&logoColor=white">
+    </a>
+    <a href="https://dgraph.io/">
+        <img src="https://img.shields.io/badge/Dgraph-E50695?logo=dgraph&style=for-the-badge&logoColor=white">
+    </a>
+    <a href="https://firebase.google.com/">
+        <img src="https://img.shields.io/badge/firebase-white?logo=firebase&style=for-the-badge">
+    </a>
+<br>
     <a href="https://developers.google.com/apps-script">
         <img src="https://img.shields.io/badge/Apps_Script-34A853?logo=google-sheets&style=for-the-badge&logoColor=white">
-    </ a>
+    </a>
 <br>
     <a href="https://reactjs.org/">
         <img src="https://img.shields.io/badge/React-white?logo=react&style=for-the-badge&logoColor=63DAF9">
@@ -101,7 +110,6 @@
     <a href="https://www.gatsbyjs.com/">
         <img src="https://img.shields.io/badge/gatsby-653496?logo=gatsby&style=for-the-badge">
     </a>
-
 <br>
     <a href="https://www.python.org/">
         <img src="https://img.shields.io/badge/python-F7D141?logo=Python&style=for-the-badge">
@@ -175,7 +183,6 @@
 <a href="https://www.sap.com/">
     <img src="https://img.shields.io/badge/Sap-EEEEEE?logo=sap&style=for-the-badge&">
 </a>
-
 <a href="https://help.sap.com/doc/abapdocu_751_index_htm/7.51/en-US/index.htm">
     <img src="https://img.shields.io/badge/Abap_OO-E3E2D1?style=for-the-badge">
 </a>
