@@ -59,7 +59,11 @@
     <a href="https://www.gnu.org/software/bash/">
         <img src="https://img.shields.io/badge/bash-1E1E1E?logo=GNU-Bash&style=for-the-badge&logoColor=white">
     </a>
-    <a href="https://www.gnu.org/software/bash/">
+<br>
+    <a href="https://inkscape.org/">
+        <img src="https://img.shields.io/badge/inkscape-000000?logo=inkscape&style=for-the-badge&logoColor=white">
+    </a>
+    <a href="https://www.docker.com/">
         <img src="https://img.shields.io/badge/docker-white?logo=docker&style=for-the-badge">
     </a>
 </p>
